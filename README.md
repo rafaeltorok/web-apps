@@ -8,7 +8,6 @@ This README serves as a **hub** to all applications. Each app has its own detail
 
 ## Table of contents
   - [Blogs List](#blogs-list)
-  - [Countries List](#countries-list)
   - [Notes](#notes)
   - [PhoneBook](#phonebook)
   - [User Management App](#user-management-app)
@@ -26,17 +25,6 @@ This README serves as a **hub** to all applications. Each app has its own detail
 - [Navigating the UI](./blogslist/README.md#navigating-the-ui)
 - [Handling user login and authorization tokens](./blogslist/README.md#handling-user-login-and-authorization-tokens)
 - [Performing CRUD operations on blogs through the backend server](./blogslist/README.md#performing-crud-operations-on-blogs-through-the-backend-server)
-
-</details>
-
-
-## Countries List
-[Read full documentation⬈](./countrieslist/README.md)
-<details>
-<summary>Sections</summary>
-
-- [About](./countrieslist/README.md#about)
-- [Usage](./countrieslist/README.md#usage)
 
 </details>
 
